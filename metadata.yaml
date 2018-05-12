@@ -1,0 +1,30 @@
+_repo: Memorabilia-Mathematicaor-the-Philomath-s-Quotation-Book_44730
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Moritz, Robert Édouard
+    alias: Moritz, Robert Edouard
+    birthdate: 1868
+    deathdate: 1940
+    gutenberg_agent_id: '42891'
+    url: http://www.gutenberg.org/2009/agents/42891
+covers:
+- cover_type: archival
+  image_path: 44730-h/images/cover-page.jpg
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2014-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44730'
+  lccn: '14007324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics -- Quotations, maxims, etc.'
+- !lcsh 'Mathematics'
+- !lcc 'QA'
+title: Memorabilia Mathematica; or, the Philomath's Quotation-Book
+url: http://www.gutenberg.org/ebooks/44730
