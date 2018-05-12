@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 44730-h/images/cover-page.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44730#Memorabilia-Mathematicaor-the-Philomath-s-Quotation-Book
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2014-01-22'
 gutenberg_type: Text
